@@ -1,0 +1,1 @@
+This repository contains a TypeScript code example demonstrating an error that occurs when calling a function with an array argument instead of a string, as expected by the function's type definition. The error and its solution are provided.
